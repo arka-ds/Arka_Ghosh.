@@ -12,3 +12,6 @@ I’m passionate about extracting insights from data and transforming them into 
 <br>
 <br>
 🚀 Open to collaborating on innovative projects and contributing to open-source communities.
+<br>
+<br>
+Contact Email Id : arkaghosh.ds@gmail.com
